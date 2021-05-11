@@ -1,5 +1,6 @@
 # Exercises for machine learning
 
+
 # 1. Sweden prediction using curve-fitting
 <a href='https://github.com/ytakefuji/sweden'> Sweden prediction</a>
 
