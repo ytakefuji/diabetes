@@ -105,4 +105,11 @@ What are important features for higher performance of students.
 </pre>
 http://archive.ics.uci.edu/ml/datasets/Student+Performance
 
+# 12. publish a new pypi library
+
+read the following repository for publishing a new pypi library.
+
+https://github.com/ytakefuji/pypi_executable_package
+
+
 
