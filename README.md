@@ -99,6 +99,10 @@ https://github.com/ytakefuji/concrete
 Stacking, voting, Stacking+NN... are explained.
 </pre>
 
-
+# 11. student performance
+<pre>
+What are important features for higher performance of students.
+</pre>
+http://archive.ics.uci.edu/ml/datasets/Student+Performance
 
 
